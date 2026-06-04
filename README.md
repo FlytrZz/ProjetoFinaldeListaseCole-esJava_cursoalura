@@ -2,7 +2,7 @@
 
 Simulador de cartão de crédito simples.
 
-## 🛠️ Tecnologias utilizadas
+## 🧠 Tecnologias utilizadas
 - Java
 - POO
 - Listas e Coleções do Java
